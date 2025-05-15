@@ -2,4 +2,4 @@
 
 ## เกี่ยวกับ Repository
 
-Repository นี้เป็นที่รวบรวมโค้ดที่ฉันได้เขียนจากโจทย์ที่ได้รับจากหลากหลายแหล่ง เช่น เว็บไซต์ฝึกเขียนโค้ด, การแข่งขันเขียนโปรแกรม, หรือโจทย์จากการเรียนและการทำงาน โดยมีวัตถุประสงค์เพื่อเก็บบันทึกการพัฒนาทักษะการเขียนโปรแกรมและสามารถนำกลับมาใช้เป็นข้อมูลอ้างอิงได้ในอนาคต
+This repository is a collection of codes that I have written from various sources such as coding practice websites, programming competitions, or from studying and working. The purpose is to record the development of programming skills and can be used as a reference in the future.
